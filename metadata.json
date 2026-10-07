@@ -1,0 +1,6 @@
+{
+  "name": "Planificador de Turnos de Producción",
+  "description": "Sistema semanal visual en formato Gantt para gestión de turnos de trabajo y logística de traslados para personal de producción.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
